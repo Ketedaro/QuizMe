@@ -1,0 +1,14 @@
+body {
+    background: #F0F0F0;
+}
+
+#question {
+    font-size: 25px;
+}
+
+#score {
+    font-size: 25px;
+}
+#pie_canvas {
+    width: 100%;
+}

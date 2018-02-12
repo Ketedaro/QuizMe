@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Le panda s'attaque parfois à de petites proies comme les souris.",
+      "answer": false,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/quipo-quiz-sec.appspot.com/o/quizzes%2Fc176557769900fa0fe2070477374e7d21455228308525.jpeg?alt=media&token=1a864a02-b62a-4a38-a04b-d9cb40f935dc",
+      "infos": "Faux, le panda n’est pas carnivore, mais végétarien. Il se nourrit presque exclusivement de pousses de bambou."
+    },
+    {
+      "id": 2,
+      "question": "Les chiens agitent la queue vers la gauche lorsqu’ils sont contents.",
+      "answer": false,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/quipo-quiz-sec.appspot.com/o/quizzes%2F78c0758f44c46ff70199d547c3e187e91455207888040.jpeg?alt=media&token=6c49287f-1b2b-4d91-87fe-9cabcaac4e1f",
+      "infos": "FAUX. Les chiens semblent agiter la queue vers la droite lorsqu’ils sont heureux et vers la gauche lorsqu’ils sont effrayés."
+    },
+    {
+      "id": 3,
+      "question": "Au total, un chat est éveillé environ quatre ans au cours de sa vie.",
+      "answer": true,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/quipo-quiz-sec.appspot.com/o/quizzes%2F0aa35f399a82cb883123d1780775ded71455220324688.jpeg?alt=media&token=3defcc9d-ade6-4d57-b024-8e7eb8cf7b5a",
+      "infos": "VRAI. En moyenne, un chat dort les ⅔ du temps. À la fin de sa vie, il aura dormi 8 ans et aura été éveillé 4 ans."
+    },
+    {
+      "id": 4,
+      "question": "Il y a environ 8000 ans, les chevaux ont disparu du continent nord-américain.",
+      "answer": true,
+      "picture": "https://firebasestorage.googleapis.com/v0/b/quipo-quiz-sec.appspot.com/o/quizzes%2F394488682dc35232da485f9734f755141469467733144.jpeg?alt=media&token=fa2e0b31-6e18-4f21-ab2d-ee1074091574",
+      "infos": "VRAI. Sans que l’on sache pourquoi, les chevaux ont disparu du continent nord-américain il y a environ 8000 ans. Ils y ont été réintroduits par les conquistadores espagnols au 16e siècle."
+    }
+  ]
+}
